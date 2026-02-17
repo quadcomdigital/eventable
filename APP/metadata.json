@@ -1,0 +1,5 @@
+{
+  "name": "EventMaster Pro Planner",
+  "description": "A web application to help users plan and customize details for their events, such as tablecloths, centerpieces, and cakes. Users can browse options, make selections, and see a summary of their choices.",
+  "requestFramePermissions": []
+}
